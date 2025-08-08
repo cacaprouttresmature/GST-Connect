@@ -1,5 +1,5 @@
 # GST-Connect
-Coucou je crée une app en python 3 qui requie PyQt5. L'app est en Python est la page est en HTML
+Coucou je crée une app en python 3 qui requie PyQt5. L'app est en Python est la page est en HTML (PASSE PAR LE LIEN MEGA POUR INSTALLER LE .exe!!!!! : https://mega.nz/file/bdMk2CqL#RtAFgSIFhs0FmdJ5iKT02mFv2hWGaJxw2oavC20qP3E)
 
 Prérequis pour l'Utilisateur Final
 Pour que l'application PyQt que vous avez développée fonctionne sur l'ordinateur d'un utilisateur final, il n'a pas besoin d'installer Python ou des bibliothèques via pip. L'application doit être packagée (transformée en un exécutable autonome).
